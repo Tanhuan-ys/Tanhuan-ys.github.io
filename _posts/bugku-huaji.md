@@ -1,5 +1,5 @@
 
---
+---
 title: Bugku 滑稽 题目Writeup
 date: 2026-09-12
 categories: CTF
